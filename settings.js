@@ -5,7 +5,7 @@ module.exports = {
   SESSION_ID: 'QUEENELISA;;;==wZ110UjZFVL1EbfJ0MKFzYGdGc1kjaTFmM3tkMDhHUlZUe3dUSnlWQ4ZjTjEUNJdnaj1Eapwd=49963101749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
-
+  
 ⏰ Now time is @time
 📅 Date : @date
 
